@@ -1,0 +1,23 @@
+img{
+    height: 300px;
+    width: 500px;
+    margin-top: 20px;
+}
+
+.container-fluid{
+    border: 1px solid transparent;
+    margin: 10px 10px 10px 15px;
+    width: 98%;
+}
+
+
+.btnRight button{
+margin-left: 90%;
+margin-top: 50px;
+margin-bottom: -10%;
+}
+
+.btnLeft button{
+    margin-right: 500px;
+    margin-bottom: -10%;
+}
